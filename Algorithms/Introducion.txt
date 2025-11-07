@@ -1,0 +1,5 @@
+Preface ———— Algorithms
+In C++, an "algorithm" is simply a step-by-step instruction set for solving a problem.
+The best part is that C++ provides a huge collection of pre-built, efficient algorithms for common tasks like sorting, searching, and counting. Think of it as a toolbox of ready-made solutions.
+Instead of writing complex code from scratch, you can often just pick the right algorithm for the job. This makes your programs shorter, faster, and more reliable.
+Learning to use these built-in algorithms is a key step in becoming a proficient C++ programmer.
