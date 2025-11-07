@@ -1,0 +1,7 @@
+Think of data structures as different kinds of storage boxes for your information.
+A single variable is like one small box holding a single item. But what if you have a whole collection of things, like all your friend's names or your game scores? You need special containers designed for groups.
+C++ gives you these ready-made "smart containers":
+Vectors are like flexible lists that grow as you add items.
+Maps are like dictionaries, connecting two pieces of information (like a word and its definition).
+Sets are like bags that only keep unique items—no duplicates allowed.
+Picking the right "storage box" makes your code neater and helps your program run faster and smoother. It's the first step to writing good code!
